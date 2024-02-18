@@ -15,7 +15,7 @@ function AboutCard() {
             <br />
             I hold a Bachelor's degree in Computer Science Engineering (B.TECH CSE), graduating from the University of Lucknow.
             <br />
-            During my academic journey, I excelled in both High School and Intermediate, securing 66% and 87%, respectively, from S.J.S Public School.
+            During my academic journey, I excelled in both High School and Intermediate from S.J.S Public School.
             <br />
             Apart from coding, some other activities that I love to do!
           </p>
